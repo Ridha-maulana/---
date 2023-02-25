@@ -2,3 +2,4 @@ Ridha
 -Belajar bahasa php
 -Belajar laravel 8 -10
 -Belajar fremwork javascript
+-Belik Komputer
