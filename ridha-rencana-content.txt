@@ -1,0 +1,4 @@
+RENCANA KONTEN RIDHA
+-Belajar laveral
+-Belajar git
+Belajar oop
