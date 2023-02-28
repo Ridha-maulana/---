@@ -1,7 +1,1 @@
 RENCANA KONTEN RIDHA
--Belajar laveral
- * bulan 4
--Belajar git
-  *bulan 3
-Belajar oop
-  *bulan 3
