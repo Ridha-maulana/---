@@ -1,7 +1,2 @@
-Ridha 
 -Belajar bahasa php
--Belajar laravel 8 -10
--Belajar fremwork javascript
--Belajar html/ css
--Belajar c++
--Belajar bahasa pyton
+
