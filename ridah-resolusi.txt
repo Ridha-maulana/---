@@ -4,3 +4,4 @@ Ridha
 -Belajar fremwork javascript
 -Belajar html/ css
 -Belajar c++
+-Belajar bahasa pyton
